@@ -21,10 +21,10 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Media       |  |<img width="84" height="18" alt="media-seav" src="https://github.com/user-attachments/assets/f6b1136b-be88-4be7-a3f8-c84840bcf273" />|
 | Manager     |  |<img width="84" height="18" alt="manager-seav" src="https://github.com/user-attachments/assets/ee14c01d-e31c-418e-8f2f-97aa1778cc4f" />|
 | Helper      |  |<img width="84" height="18" alt="helper-seav" src="https://github.com/user-attachments/assets/d59b8ba4-fab7-458d-9920-b4398ec2a022" />|
-| Lengend      |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
+| Lengend     |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
 | BacsicVip   |  |<img width="84" height="18" alt="vipplus-seav" src="https://github.com/user-attachments/assets/f5870a55-59c5-441f-970c-3eac80ea0c88" />|
 | PrimeVip    |  |<img width="84" height="18" alt="vip-seav" src="https://github.com/user-attachments/assets/f78d0675-549b-4fa9-a225-dc9a6823e185" />|
-| PrimeVip    |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
+| PremiumVip  |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
 | UltraVip    |  |<img width="84" height="18" alt="mvpplus-seav" src="https://github.com/user-attachments/assets/7ff100a8-02a0-4114-bc13-eaaf0bd13611" />|
 | MegaVip     |  |<img width="84" height="18" alt="mvpplusplus-seav" src="https://github.com/user-attachments/assets/e047f1b3-c583-4d9f-8e72-e3f5f7ac1efb"/>|
 | Mod         |  |<img width="84" height="18" alt="mod-seav" src="https://github.com/user-attachments/assets/24d7e9f9-53ce-4393-ad36-886fd89db90b" />|
