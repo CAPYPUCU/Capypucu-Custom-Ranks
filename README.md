@@ -26,7 +26,8 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | PremiumVip  |  |<img width="84" height="18" alt="premiumvip-seav" src="https://github.com/user-attachments/assets/e7578382-8e84-4391-9d4e-11644c3ac011" />
 | UltraVip    |  |<img width="84" height="18" alt="mvpplus-seav" src="https://github.com/user-attachments/assets/7ff100a8-02a0-4114-bc13-eaaf0bd13611" />|
 | MegaVip     |  |<img width="84" height="18" alt="mvpplusplus-seav" src="https://github.com/user-attachments/assets/e047f1b3-c583-4d9f-8e72-e3f5f7ac1efb"/>|
-| Lengend     |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
+| LengendVip  |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
+| MythicVip   |  |<img width="84" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/1b348e6b-1e35-45b1-80e4-c78462b52c24" />|
 | Mod         |  |<img width="84" height="18" alt="mod-seav" src="https://github.com/user-attachments/assets/24d7e9f9-53ce-4393-ad36-886fd89db90b" />|
 | Noob        |  |<img width="84" height="18" alt="noob-saev" src="https://github.com/user-attachments/assets/579fa785-2c3c-4e1b-8dfa-7989e9fb7b8f" />|
 | Owner       |  |<img width="84" height="18" alt="owner-seav" src="https://github.com/user-attachments/assets/d1679ac2-4233-4a7a-adf3-31d3afed0453" />|
@@ -37,7 +38,6 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Dev         |  |<img width="84" height="18" alt="dev-seav" src="https://github.com/user-attachments/assets/4557837e-5a98-4de1-9691-a7194e6a4257" />|
 | Thỏ Bảy Màu |  |<img width="84" height="18" alt="thobaymau-seav" src="https://github.com/user-attachments/assets/7e14b099-c50c-4e15-903f-f2ba63b4dbfc" />|
 | God         |  |<img width="84" height="18" alt="god-seav" src="https://github.com/user-attachments/assets/f40a5d27-cbd8-4862-9114-c33521d61fc8" />|
-| Elite+      |  |<img width="84" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/1b348e6b-1e35-45b1-80e4-c78462b52c24" />|
 | YouTube     |  |<img width="84" height="18" alt="youtube-seav" src="https://github.com/user-attachments/assets/ab938574-695c-4ecf-abcb-9803e6b56c7b" />|
 | Tiktok      |  |<img width="84" height="18" alt="tiktok-seav" src="https://github.com/user-attachments/assets/49cfaf81-d78f-4de6-87bd-3341de3dd429" />|
 | Discord     |  |<img width="84" height="18" alt="discord-seav" src="https://github.com/user-attachments/assets/83e25718-ecab-4459-a58d-20fd5aa9d505" />|
