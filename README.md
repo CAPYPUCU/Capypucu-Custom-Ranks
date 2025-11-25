@@ -16,6 +16,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 | RANK   | GLYPH | ILLUSTRATION| 
 |--------|-------|-------------|
+| Owner       |  |<img width="84" height="18" alt="owner-seav" src="https://github.com/user-attachments/assets/d1679ac2-4233-4a7a-adf3-31d3afed0453" />|
 | Admin       |  |<img width="84" height="18" alt="admin-seav" src="https://github.com/user-attachments/assets/8cf77d2c-729b-4b10-9cdc-ad97c2550db3" />|
 | Member      |  |<img width="84" height="18" alt="member-seav" src="https://github.com/user-attachments/assets/d5989c26-96b8-4543-a3c5-d59f99bcfe40" />|
 | Media       |  |<img width="84" height="18" alt="media-seav" src="https://github.com/user-attachments/assets/f6b1136b-be88-4be7-a3f8-c84840bcf273" />|
@@ -23,14 +24,13 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Helper      |  |<img width="84" height="18" alt="helper-seav" src="https://github.com/user-attachments/assets/d59b8ba4-fab7-458d-9920-b4398ec2a022" />|
 | BacsicVip   |  |<img width="84" height="18" alt="basic-seav" src="https://github.com/user-attachments/assets/cbe25b6f-a695-4926-8d36-c4e185345fdd" />
 | PrimeVip    |  |<img width="84" height="18" alt="primevip-seav" src="https://github.com/user-attachments/assets/177e25f8-891e-472c-94d9-d99d66e4c66e" />
-| PremiumVip  |  |<img width="84" height="18" alt="premiumvip-seav" src="https://github.com/user-attachments/assets/e7578382-8e84-4391-9d4e-11644c3ac011" />
 | UltraVip    |  |<img width="84" height="18" alt="mvpplus-seav" src="https://github.com/user-attachments/assets/7ff100a8-02a0-4114-bc13-eaaf0bd13611" />|
+| PremiumVip  |  |<img width="84" height="18" alt="premiumvip-seav" src="https://github.com/user-attachments/assets/e7578382-8e84-4391-9d4e-11644c3ac011" />
 | MegaVip     |  |<img width="84" height="18" alt="mvpplusplus-seav" src="https://github.com/user-attachments/assets/e047f1b3-c583-4d9f-8e72-e3f5f7ac1efb"/>|
 | LengendVip  |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
 | MythicVip   |  |<img width="84" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/1b348e6b-1e35-45b1-80e4-c78462b52c24" />|
 | Mod         |  |<img width="84" height="18" alt="mod-seav" src="https://github.com/user-attachments/assets/24d7e9f9-53ce-4393-ad36-886fd89db90b" />|
 | Noob        |  |<img width="84" height="18" alt="noob-saev" src="https://github.com/user-attachments/assets/579fa785-2c3c-4e1b-8dfa-7989e9fb7b8f" />|
-| Owner       |  |<img width="84" height="18" alt="owner-seav" src="https://github.com/user-attachments/assets/d1679ac2-4233-4a7a-adf3-31d3afed0453" />|
 | Pro         |  |<img width="84" height="18" alt="pro-seav" src="https://github.com/user-attachments/assets/4c74aac9-e95c-4efe-8e6b-93563cfe1b65" />|
 | Twitch      |  |<img width="84" height="18" alt="twitch-seav" src="https://github.com/user-attachments/assets/2c7f4fca-d30f-42a6-b972-6a056c2214ea" />|
 | Hero        |  |<img width="84" height="18" alt="pro-seav" src="https://github.com/user-attachments/assets/4ebeb0fb-0dac-45ef-821f-082f2f96397d" />|
