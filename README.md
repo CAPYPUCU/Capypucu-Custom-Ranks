@@ -25,7 +25,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 | PremiumVip  |  |<img width="84" height="18" alt="premiumvip-seav" src="https://github.com/user-attachments/assets/e7578382-8e84-4391-9d4e-11644c3ac011" />
 | MegaVip     |  |<img width="84" height="18" alt="mvpplusplus-seav" src="https://github.com/user-attachments/assets/e047f1b3-c583-4d9f-8e72-e3f5f7ac1efb"/>|
 | LengendVip  |  |<img width="84" height="18" alt="mvp-seav" src="https://github.com/user-attachments/assets/a38650f3-d047-4670-b769-a80bcc7b299e" />|
-| MythicVip   |  |<img width="84" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/1b348e6b-1e35-45b1-80e4-c78462b52c24" />|
+| MythicVip   |  |<img width="84" height="18" alt="mythic-seav" src="https://github.com/user-attachments/assets/0e7eb2d5-8254-4110-96ee-c1c849cc1da9" />|
 | Media       |  |<img width="84" height="18" alt="media-seav" src="https://github.com/user-attachments/assets/f6b1136b-be88-4be7-a3f8-c84840bcf273" />|
 | Manager     |  |<img width="84" height="18" alt="manager-seav" src="https://github.com/user-attachments/assets/ee14c01d-e31c-418e-8f2f-97aa1778cc4f" />|
 | Helper      |  |<img width="84" height="18" alt="helper-seav" src="https://github.com/user-attachments/assets/d59b8ba4-fab7-458d-9920-b4398ec2a022" />|
