@@ -12,7 +12,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 
 • Vui lòng trả phí để truy cập bản "Premium"
 
-# AVAILABLE RANKS
+# CẤP ĐỘ CÓ SẴN
 
 | RANK   | GLYPH | ILLUSTRATION| 
 |--------|-------|-------------|
