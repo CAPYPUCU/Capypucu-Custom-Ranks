@@ -12,7 +12,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 
 • Vui lòng trả phí để truy cập bản "Premium"
 
-# CẤP ĐỘ CÓ SẴN
+# HÌNH ẢNH MINH HỌA
 
 | RANK   | GLYPH | ILLUSTRATION| 
 |--------|-------|-------------|
@@ -44,10 +44,10 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 | Npc         |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
 |TEST RANK    | ||
 
-# INSTALLATION
+# CÀI ĐẶT
 Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 
-# BUY CAPYPUCURANKS PREMIUM
+# MUA CAPYPUCU RANKS PREMIUM
 • Discord: https://discord.com/users/1316296719289548810
 
 
