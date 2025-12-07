@@ -42,7 +42,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 | Tiktok      |  |<img width="84" height="18" alt="tiktok-seav" src="https://github.com/user-attachments/assets/49cfaf81-d78f-4de6-87bd-3341de3dd429" />|
 | Discord     |  |<img width="84" height="18" alt="discord-seav" src="https://github.com/user-attachments/assets/83e25718-ecab-4459-a58d-20fd5aa9d505" />|
 | Npc         |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
-| Gojo        |  ||
+| Gojo        |  |<img width="84" height="18" alt="gojo-seav" src="https://github.com/user-attachments/assets/9fbb9fd5-f12b-4240-abd6-c8f48568820c" />|
 | Hello Kitty |  ||
 |             |  ||
 |             |  ||
