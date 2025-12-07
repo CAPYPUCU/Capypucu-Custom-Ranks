@@ -1,5 +1,5 @@
-# DESCRIPTION OF CAPYPUCU 
-A resource pack for Java and Bedrock that adds custom ranks, compatible with Geyser. All ranks are buy and easy to install - no plugins required, just a resource pack.
+# MÔ TẢ RANK CAPYPUCU
+Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc tùy chỉnh, tương thích với Geyser. Tất cả các cấp bậc đều có thể mua và cài đặt dễ dàng - không cần plugin, chỉ cần một gói tài nguyên.
 
 # FEATURES 
 • Geyser Compatible
