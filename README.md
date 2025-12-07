@@ -1,16 +1,16 @@
 # MÔ TẢ RANK CAPYPUCU
 Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc tùy chỉnh, tương thích với Geyser. Tất cả các cấp bậc đều có thể mua và cài đặt dễ dàng - không cần plugin, chỉ cần một gói tài nguyên.
 
-# FEATURES 
-• Geyser Compatible
+# ĐẶC TRƯNG
+• Tương thích với máy nước nóng
 
-• No plugins needed
+• Không cần plugin
 
-• Java & Bedrock Support
+• Hỗ trợ Java & Bedrock
 
-• Custom Rank Designs
+• Thiết kế xếp hạng tùy chỉnh
 
-• Please pay for access 
+• Vui lòng trả phí để truy cập bản "Premium"
 
 # AVAILABLE RANKS
 
