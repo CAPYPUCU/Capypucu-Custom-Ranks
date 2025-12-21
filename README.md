@@ -19,8 +19,8 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 | Owner       |  |<img width="84" height="18" alt="owner-seav" src="https://github.com/user-attachments/assets/d1679ac2-4233-4a7a-adf3-31d3afed0453" />|
 | Admin       |  |<img width="84" height="18" alt="admin-seav" src="https://github.com/user-attachments/assets/8cf77d2c-729b-4b10-9cdc-ad97c2550db3" />|
 | Member      |  |<img width="84" height="18" alt="member-seav" src="https://github.com/user-attachments/assets/d5989c26-96b8-4543-a3c5-d59f99bcfe40" />|
-| BacsicVip   |  |<img width="84" height="18" alt="basic-seav" src="https://github.com/user-attachments/assets/cbe25b6f-a695-4926-8d36-c4e185345fdd" />
-| PrimeVip    |  |<img width="84" height="18" alt="primevip-seav" src="https://github.com/user-attachments/assets/177e25f8-891e-472c-94d9-d99d66e4c66e" />
+| BacsicVip   |  |<img width="84" height="18" alt="basic-seav" src="https://github.com/user-attachments/assets/cbe25b6f-a695-4926-8d36-c4e185345fdd" />
+| PrimeVip    |  |<img width="84" height="18" alt="primevip-seav" src="https://github.com/user-attachments/assets/177e25f8-891e-472c-94d9-d99d66e4c66e" />
 | UltraVip    |  |<img width="84" height="18" alt="mvpplus-seav" src="https://github.com/user-attachments/assets/7ff100a8-02a0-4114-bc13-eaaf0bd13611" />|
 | PremiumVip  |  |<img width="84" height="18" alt="premiumvip-seav" src="https://github.com/user-attachments/assets/e7578382-8e84-4391-9d4e-11644c3ac011" />
 | MegaVip     |  |<img width="84" height="18" alt="mvpplusplus-seav" src="https://github.com/user-attachments/assets/e047f1b3-c583-4d9f-8e72-e3f5f7ac1efb"/>|
