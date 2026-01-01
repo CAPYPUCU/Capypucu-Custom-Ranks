@@ -44,7 +44,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 | Npc         |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
 | Gojo        |  |<img width="84" height="18" alt="gojo-seav" src="https://github.com/user-attachments/assets/9fbb9fd5-f12b-4240-abd6-c8f48568820c" />|
 | Hello Kitty |  ||
-|             |  ||
+| Police      |  |<img width="84" height="18" alt="police-seav" src="https://github.com/user-attachments/assets/902fc1c3-1cb2-4b74-b3b8-40b88deeb5e6" />|
 |             |  ||
 |             |  ||
 |             |  ||
