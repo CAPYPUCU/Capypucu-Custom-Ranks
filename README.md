@@ -48,7 +48,7 @@ Một gói tài nguyên dành cho Java và Bedrock, bổ sung các cấp bậc t
 |             |  ||
 |             |  ||
 |             |  ||
-|TEST RANK    | ||
+|TEST RANK    | ||
 
 # CÀI ĐẶT
 Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
